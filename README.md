@@ -1,7 +1,6 @@
 # KeeperApp
 
 This project is a simple clone of Google Keep and is live at -
-[KeeperApp](https://veernivishwanath.github.io/KeeperApp)
 [CodeSandBox](https://h0c28m.csb.app/).
 
 ## Available Scripts
